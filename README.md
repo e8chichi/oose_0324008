@@ -79,4 +79,10 @@ use case圖：
 
 ![Imgur](http://i.imgur.com/yjusFza.png)
 
+強韌圖：
+
+[Imgur](http://i.imgur.com/fyUecyy.jpg)
+
+[Imgur](http://i.imgur.com/EAC0zCu.jpg)
+
 
