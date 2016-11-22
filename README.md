@@ -81,8 +81,8 @@ use case圖：
 
 強韌圖：
 
-[Imgur](http://i.imgur.com/fyUecyy.jpg)
+![Imgur](http://i.imgur.com/fyUecyy.jpg)
 
-[Imgur](http://i.imgur.com/EAC0zCu.jpg)
+![Imgur](http://i.imgur.com/EAC0zCu.jpg)
 
 
