@@ -85,4 +85,7 @@ use case圖：
 
 ![Imgur](http://i.imgur.com/EAC0zCu.jpg)
 
+循序圖：
+
+![Imgur](http://i.imgur.com/quBPW9W.jpg)
 
