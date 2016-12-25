@@ -89,3 +89,6 @@ use case圖：
 
 ![Imgur](http://i.imgur.com/quBPW9W.jpg)
 
+類別圖：
+
+![Imgur](http://i.imgur.com/SIHp90j.jpg)
